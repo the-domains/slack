@@ -1,0 +1,14 @@
+layout_spectrum: 0.5602098242379725
+typography_spectrum: 0.45943752536550164
+color:
+  brandStrength: 0.6207640604116023
+  lightness: 0.39415484899654984
+  saturation: 0.6913257790729403
+  rhythmicContrast: 0.5124236205592752
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Slack
